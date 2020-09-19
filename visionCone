@@ -1,0 +1,10 @@
+GameObject Player = GameObject.FindGameObjectWithTag("Player");
+RaycastHit hit; //raycast to find player
+Physics.Raycast(transform.position, (Player.transform.position - transform.position), out hit, 10); //raycast to player
+Vector3 targetDir = Player.transform.position - transform.position;
+float angle = Vector3.Angle(targetDir, transform.forward);
+
+//chase the player
+if (hit.transform == Player.transform && Mathf.Abs(angle) <= 45) { //if player is in front and in los
+//find and move to player
+}
