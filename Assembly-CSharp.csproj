@@ -57,6 +57,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Cheese.cs" />
      <Compile Include="Assets\Scripts\Mouse.cs" />
+     <Compile Include="Assets\Scripts\mouseTrap.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/brijf/Unity/Projects/Cheese2/Cheese/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
