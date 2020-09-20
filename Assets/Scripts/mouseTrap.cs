@@ -27,4 +27,8 @@ public class mouseTrap : MonoBehaviour
         isSet = false;
         GetComponent<MeshRenderer>().material.color = Color.green;
     }
+
+    public bool checkSet() {
+        return isSet;
+    }
 }
