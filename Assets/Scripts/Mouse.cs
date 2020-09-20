@@ -29,7 +29,7 @@ public class Mouse : MonoBehaviour
     }
 
     void OnCollisionEnter(Collision collision) {
-        if (collision.gameObject.tag.Equals("trap") && collision.gameObject.GetComponent<mouseTrap>().checkSet()) {
+        if (collision.gameObject.tag.Equals("trap")) {
             GameObject.Find(collision.gameObject.name).GetComponent<mouseTrap>().hit();
             timer = 5;
             agent.SetDestination(transform.position);
