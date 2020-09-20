@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 032d660a75d57ee4ca50333c13340245
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 6422597854983041045
+    second: Bones|2SwordBlockJab
+  - first:
+      74: 5862609717407187295
+    second: Bones|2SwordBlockSwingL
+  - first:
+      74: -4780846981925026689
+    second: Bones|2SwordBlockSwingR
+  - first:
+      74: 1326079486127433319
+    second: Bones|2SwordBlockSwingTop
+  - first:
+      74: -8337837016455839927
+    second: Bones|2SwordLSwing
+  - first:
+      74: 3838186557755157800
+    second: Bones|2SwordLSwing2
+  - first:
+      74: 5586447383736441556
+    second: Bones|2SwordLSwing3
+  - first:
+      74: 4451537299872926579
+    second: Bones|2SwordRSwing
+  - first:
+      74: -2018503593600457375
+    second: Bones|base
+  - first:
+      74: 6003032125613595976
+    second: Bones|BowDraw
+  - first:
+      74: 4511393320102775513
+    second: Bones|BowHold
+  - first:
+      74: -1515840911098697382
+    second: Bones|BowHoldDrawn
+  - first:
+      74: -2798141186713097752
+    second: Bones|BowRelease
+  - first:
+      74: 1059272589282706430
+    second: Bones|CrouchIdle
+  - first:
+      74: 3342320537161046964
+    second: Bones|CrouchWalk
+  - first:
+      74: 6581599491868653772
+    second: Bones|FallAnimation
+  - first:
+      74: 7153447690559412605
+    second: Bones|Hand1
+  - first:
+      74: -7318130566900868856
+    second: Bones|Hand2
+  - first:
+      74: -8910923673022898057
+    second: Bones|Hand3
+  - first:
+      74: -1074616252800500876
+    second: Bones|Hand4
+  - first:
+      74: -4357811198063858499
+    second: Bones|Hand5
+  - first:
+      74: 6176648019891229394
+    second: Bones|HandBash
+  - first:
+      74: -344965211243076739
+    second: Bones|Idle
+  - first:
+      74: -5289357519381209912
+    second: Bones|JumpFromRun
+  - first:
+      74: 1867239226223770465
+    second: Bones|JumpFromStand
+  - first:
+      74: -7893202629729700279
+    second: Bones|PointFire
+  - first:
+      74: -6793246273741676507
+    second: Bones|Roll
+  - first:
+      74: -4022676994518985712
+    second: Bones|Run
+  - first:
+      74: -5679184731259054937
+    second: Bones|RunWithSword
+  - first:
+      74: -83293576424262591
+    second: Bones|SpearThroughHold(Reqire Atlatl)
+  - first:
+      74: -7011972772990464386
+    second: Bones|Walk
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
